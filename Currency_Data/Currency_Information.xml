@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<currencies>
+    <currency code="AED" curr="United Arab Emirates dirham" loc="United Arab Emirates"/>
+    <currency code="AFN" curr="Afghan afghani" loc="Afghanistan"/>
+    <currency code="ALL" curr="Albanian lek" loc="Albania"/>
+    <currency code="AMD" curr="Armenian dram" loc="Armenia"/>
+    <currency code="ANG" curr="Netherlands Antillean guilder" loc=" Curaçao, Sint Maarten"/>
+    <currency code="ARS" curr="Argentine peso" loc="Argentina"/>
+    <currency code="AUD" curr="Australian dollar" loc="Australia, Australian Antarctic Territory, Christmas Island, Cocos (Keeling) Islands, Heard and McDonald Islands, Kiribati, Nauru, Norfolk Island, Tuvalu"/>
+    <currency code="AWG" curr="Aruban florin" loc="Aruba"/>
+    <currency code="AZN" curr="Azerbaijani manat" loc="Azerbaijan"/>
+    <currency code="BAM" curr="Bosnia and Herzegovina convertible mark" loc="Bosnia and Herzegovina"/>
+    <currency code="BBD" curr="Barbados dollar" loc="Barbados"/>
+    <currency code="BDT" curr="Bangladeshi taka" loc="Bangladesh"/>
+    <currency code="BGN" curr="Bulgarian lev" loc="Bulgaria"/>
+    <currency code="BHD" curr="Bahraini dinar" loc="Bahrain"/>
+    <currency code="BIF" curr="Burundian franc" loc="Burundi"/>
+    <currency code="BMD" curr="Bermudian dollar" loc="Bermuda"/>
+    <currency code="BND" curr="Brunei dollar" loc="Brunei, Singapore"/>
+    <currency code="BOB" curr="Boliviano" loc="Bolivia"/>
+    <currency code="BOV" curr="Bolivian Mvdol " loc="Bolivia"/>
+    <currency code="BRL" curr="Brazilian real" loc="Brazil"/>
+    <currency code="BSD" curr="Bahamian dollar" loc="Bahamas"/>
+    <currency code="BTN" curr="Bhutanese ngultrum" loc="Bhutan"/>
+    <currency code="BWP" curr="Botswana pula" loc="Botswana"/>
+    <currency code="BYR" curr="Belarusian ruble" loc="Belarus"/>
+    <currency code="BZD" curr="Belize dollar" loc="Belize"/>
+    <currency code="CAD" curr="Canadian dollar" loc="Canada"/>
+    <currency code="CDF" curr="Congolese franc" loc="Democratic Republic of Congo"/>
+    <currency code="CHE" curr="WIR Euro " loc="Switzerland"/>
+    <currency code="CHF" curr="Swiss franc" loc="Switzerland, Liechtenstein"/>
+    <currency code="CHW" curr="WIR Franc " loc="Switzerland"/>
+    <currency code="CLF" curr="Unidad de Fomento" loc="Chile"/>
+    <currency code="CLP" curr="Chilean peso" loc="Chile"/>
+    <currency code="CNY" curr="Chinese yuan" loc="China (Mainland)"/>
+    <currency code="COP" curr="Colombian peso" loc="Colombia"/>
+    <currency code="COU" curr="Unidad de Valor Real" loc="Colombia"/>
+    <currency code="CRC" curr="Costa Rican colon" loc="Costa Rica"/>
+    <currency code="CUC" curr="cuban convertible peso" loc="Cuba"/>
+    <currency code="CVE" curr="Cuban peso" loc="Cuba"/>
+    <currency code="CZK" curr="Czech koruna" loc="Czech Republic"/>
+    <currency code="DJF" curr="Djiboutian franc" loc="Djibouti"/>
+    <currency code="DKK" curr="Danish krone" loc="Denmark, Faroe Islands, Greenland"/>
+    <currency code="DOP" curr="Dominican peso" loc="Dominican Republic"/>
+    <currency code="DZD" curr="Algerian dinar" loc="Algeria"/>
+    <currency code="EGP" curr="Egyptian pound" loc="Egypt"/>
+    <currency code="ERN" curr="Eritrean nakfa" loc="Eritrea"/>
+    <currency code="ETB" curr="Ethiopian birr" loc="Ethiopia"/>
+    <currency code="EUR" curr="Euro" loc="European Union countries, 
+    Andorra, Kosovo, Monaco, Montenegro, San Marino, Vatican City"/>
+    <currency code="FJD" curr="Fiji dollar" loc="Fiji"/>
+    <currency code="FKP" curr="Falkland Islands pound" loc="Falkland Islands"/>
+    <currency code="GBP" curr="Pound sterling" loc="United Kingdom, Crown Dependencies (the Isle of Man and the Channel Islands), certain British Overseas Territories (South Georgia and the South Sandwich Islands, British Antarctic Territory and  British Indian Ocean Territory)"/>
+    <currency code="GEL" curr="Georgian lari" loc="Georgia (country)"/>
+    <currency code="GHS" curr="Ghanaian cedi" loc="Ghana"/>
+    <currency code="GIP" curr="Gibraltar pound" loc="Gibraltar"/>
+    <currency code="GMD" curr="Gambian dalasi" loc="Gambia"/>
+    <currency code="GNF" curr="Guinean franc" loc="Guinea"/>
+    <currency code="GTQ" curr="Guatemalan quetzal" loc="Guatemala"/>
+    <currency code="GYD" curr="Guyanese dollar" loc="Guyana"/>
+    <currency code="HKD" curr="Hong Kong dollar" loc="Hong Kong (Special Administrative Region), Macau (Special Administrative Region)"/>
+    <currency code="HNL" curr="Honduran lempira" loc="Honduras"/>
+    <currency code="HRK" curr="Croatian kuna" loc="Croatia"/>
+    <currency code="HTG" curr="Haitian gourde" loc="Haiti"/>
+    <currency code="HUF" curr="Hungarian forint" loc="Hungary"/>
+    <currency code="IDR" curr="Indonesian rupiah" loc="Indonesia"/>
+    <currency code="ILS" curr="Israeli new sheqel" loc="Israel, Palestinian territories"/>
+    <currency code="INR" curr="Indian rupee" loc="Bhutan, India"/>
+    <currency code="ISK" curr="Icelandic króna" loc="Iceland"/>
+    <currency code="JMD" curr="Jamaican dollar" loc="Jamaica"/>
+    <currency code="JOD" curr="Jordanian dinar" loc="Jordan"/>
+    <currency code="JPY" curr="Japanese yen" loc="Japan"/>
+    <currency code="KES" curr="Kenyan shilling" loc="Kenya"/>
+    <currency code="KGS" curr="Kyrgyzstani som" loc="Kyrgyzstan"/>
+    <currency code="KHR" curr="Cambodian riel" loc="Cambodia"/>
+    <currency code="KMF" curr="Comoro franc" loc="Comoros"/>
+    <currency code="KPW" curr="North Korean won" loc="North Korea"/>
+    <currency code="KRW" curr="South Korean won" loc="South Korea"/>
+    <currency code="KWD" curr="Kuwaiti dinar" loc="Kuwait"/>
+    <currency code="KYD" curr="Cayman Islands dollar" loc="Cayman Islands"/>
+    <currency code="KZT" curr="Kazakhstani tenge" loc="Kazakhstan"/>
+    <currency code="LAK" curr="Lao kip" loc="Laos"/>
+    <currency code="LBP" curr="Lebanese pound" loc="Lebanon"/>
+    <currency code="LKR" curr="Sri Lankan rupee" loc="Sri Lanka"/>
+    <currency code="LRD" curr="Liberian dollar" loc="Liberia"/>
+    <currency code="LSL" curr="Lesotho loti" loc="Lesotho"/>
+    <currency code="LTL" curr="Lithuanian litas" loc="Lithuania"/>
+    <currency code="LVL" curr="Latvian lats" loc="Latvia"/>
+    <currency code="LYD" curr="" loc=""/>
+    <currency code="MAD" curr="Moroccan dirham" loc="Morocco, Western Sahara"/>
+    <currency code="MDL" curr="Moldovan leu" loc="Moldova (except Transnistria)"/>
+    <currency code="MGA" curr="Malagasy ariary" loc="Madagascar"/>
+    <currency code="MKD" curr="Macedonian denar" loc="Republic of Macedonia"/>
+    <currency code="MMK" curr="Myanma kyat" loc="Myanmar"/>
+    <currency code="MNT" curr="Mongolian tugrik" loc="Mongolia"/>
+    <currency code="MOP" curr="Macanese pataca" loc="Macau (Special Administrative Region)"/>
+    <currency code="MRO" curr="Mauritanian ouguiya" loc="Mauritania"/>
+    <currency code="MUR" curr="Mauritian rupee" loc="Mauritius"/>
+    <currency code="MVR" curr="Maldivian rufiyaa" loc="Maldives"/>
+    <currency code="MWK" curr="Malawian kwacha" loc="Malawi"/>
+    <currency code="MXN" curr="Mexican peso" loc="Mexico"/>
+    <currency code="MXV" curr="Mexican Unidad de Inversion (UDI) " loc="Mexico"/>
+    <currency code="MYR" curr="Malaysian ringgit" loc="Malaysia"/>
+    <currency code="MZN" curr="Mozambican metical" loc="Mozambique"/>
+    <currency code="NAD" curr="Namibian dollar" loc="Namibia"/>
+    <currency code="NGN" curr="Nigerian naira" loc="Nigeria"/>
+    <currency code="NIO" curr="Nicaraguan córdoba" loc="Nicaragua"/>
+    <currency code="NOK" curr="Norwegian krone" loc="Norway, Svalbard, Jan Mayen, Bouvet Island, Queen Maud Land, Peter I Island"/>
+    <currency code="NPR" curr="Nepalese rupee" loc="Nepal"/>
+    <currency code="NZD" curr="New Zealand dollar" loc="Cook Islands, New Zealand, Niue, Pitcairn, Tokelau"/>
+    <currency code="OMR" curr="Omani rial" loc="Oman"/>
+    <currency code="PAB" curr="Panamanian balboa" loc="Panama"/>
+    <currency code="PEN" curr="Peruvian nuevo sol" loc="Peru"/>
+    <currency code="PGK" curr="Papua New Guinean kina" loc="Papua New Guinea"/>
+    <currency code="PHP" curr="Philippine peso" loc="Philippines"/>
+    <currency code="PKR" curr="Pakistani rupee" loc="Pakistan"/>
+    <currency code="PLN" curr="Polish złoty" loc="Poland"/>
+    <currency code="PYG" curr="Paraguayan guaraní" loc="Paraguay"/>
+    <currency code="QAR" curr="Qatari rial" loc="Qatar"/>
+    <currency code="RON" curr="Romanian new leu" loc="Romania"/>
+    <currency code="RSD" curr="Serbian dinar" loc="Serbia"/>
+    <currency code="RUB" curr="Russian rouble" loc="Russia, Abkhazia, South Ossetia"/>
+    <currency code="RWF" curr="Rwandan franc" loc="Rwanda"/>
+    <currency code="SAR" curr="Saudi riyal" loc="Saudi Arabia"/>
+    <currency code="SBD" curr="Solomon Islands dollar" loc="Solomon Islands"/>
+    <currency code="SCR" curr="Seychelles rupee" loc="Seychelles"/>
+    <currency code="SBD" curr="Solomon Islands dollar" loc="Solomon Islands"/>
+    <currency code="SEK" curr="Swedish krona/kronor" loc="Sweden"/>
+    <currency code="SGD" curr="Singapore dollar" loc="Singapore, Brunei"/>
+    <currency code="SHP" curr="Saint Helena pound" loc="Saint Helena"/>
+    <currency code="SLL" curr="Sierra Leonean leone" loc="Sierra Leone"/>
+    <currency code="SOS" curr="Somali shilling" loc="Somalia (except Somaliland)"/>
+    <currency code="SRD" curr="Surinamese dollar" loc="Suriname"/>
+    <currency code="SSP" curr="South Sudanese pound" loc="South Sudan"/>
+    <currency code="STD" curr="São Tomé and Príncipe dobra" loc="São Tomé and Príncipe"/>
+    <currency code="SYP" curr="Syrian pound" loc="Syria"/>
+    <currency code="SZL" curr="Swazi lilangeni" loc="Swaziland"/>
+    <currency code="THB" curr="Thai baht" loc="Thailand"/>
+    <currency code="TJS" curr="Tajikistani somoni" loc="Tajikistan"/>
+    <currency code="TMT" curr="Turkmenistani manat" loc="Turkmenistan"/>
+    <currency code="TND" curr="Tunisian dinar" loc="Tunisia"/>
+    <currency code="TOP" curr="Tongan paʻanga" loc="Tonga"/>
+    <currency code="TRY" curr="Turkish lira" loc="Turkey, Northern Cyprus"/>
+    <currency code="TTD" curr="Trinidad and Tobago dollar" loc="Trinidad and Tobago"/>
+    <currency code="TWD" curr="New Taiwan dollar" loc="Taiwan"/>
+    <currency code="TZS" curr="Tanzanian shilling" loc="Tanzania"/>
+    <currency code="UAH" curr="Ukrainian hryvnia" loc="Ukraine"/>
+    <currency code="UGX" curr="Ugandan shilling" loc="Uganda"/>
+    <currency code="USD" curr="United States dollar" loc="American Samoa, British Indian Ocean Territory, Caribbean Netherlands, Ecuador, El Salvador, Guam, Haiti, Marshall Islands, Micronesia, Northern Mariana Islands, Palau, Panama, Puerto Rico, Timor-Leste, Turks and Caicos Islands, United States, U.S. Virgin Islands, Barbados (as well as Barbados Dollar), Bermuda (as well as Bermudian Dollar), Zimbabwe"/>
+    <currency code="USN" curr="United States dollar (next day)" loc="United States"/>
+    <currency code="USS" curr="United States dollar (same day)" loc="United States"/>
+    <currency code="UYI" curr="Uruguay Peso en Unidades Indexadas " loc="Uruguay"/>
+    <currency code="UYU" curr="Uruguayan peso" loc="Uruguay"/>
+    <currency code="UZS" curr="Uzbekistan som" loc="Uzbekistan"/>
+    <currency code="VEF" curr="Venezuelan bolívar fuerte" loc="Venezuela"/>
+    <currency code="VND" curr="Vietnamese đồng" loc="Vietnam"/>
+    <currency code="VUV" curr="Vanuatu vatu" loc="Vanuatu"/>
+    <currency code="WST" curr="Samoan tala" loc="Samoa"/>
+    <currency code="XAF" curr="CFA franc BEAC" loc="Cameroon, Central African Republic, Republic of the Congo, Chad, Equatorial Guinea, Gabon"/>
+    <currency code="XAG" curr="Silver (one troy ounce)" loc=""/>
+    <currency code="XAU" curr="Gold (one troy ounce)" loc=""/>
+    <currency code="XBA" curr="European Composite Unit (EURCO) (bond market unit)" loc=""/>
+    <currency code="XBB" curr="European Monetary Unit (E.M.U.-6) (bond market unit)" loc=""/>
+    <currency code="XBC" curr="European Unit of Account 9 (E.U.A.-9) (bond market unit)" loc=""/>
+    <currency code="XBD" curr="European Unit of Account 17 (E.U.A.-17) (bond market unit)" loc=""/>
+    <currency code="XCD" curr="East Caribbean dollar" loc="Anguilla, Antigua and Barbuda, Dominica, Grenada, Montserrat, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines"/>
+    <currency code="XDR" curr="Special Drawing Rights" loc="International Monetary Fund"/>
+    <currency code="XOF" curr="CFA Franc BCEAO" loc="Benin, Burkina Faso, Côte d'Ivoire, Guinea-Bissau, Mali, Niger, Senegal, Togo"/>
+    <currency code="XPT" curr="Platinum (one troy ounce)" loc=""/>
+    <currency code="YER" curr="Yemeni rial" loc="Yemen"/>
+    <currency code="ZAR" curr="South African rand" loc="South Africa"/>
+    <currency code="ZMK" curr="Zambian kwacha" loc="Zambia"/>
+    <currency code="ZWL" curr="Zimbabwe dollar" loc="Zimbabwe"/>
+</currencies>

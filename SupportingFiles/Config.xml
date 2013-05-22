@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration_settings>
+	<baserate>USD</baserate>
+
+	<currency_info_file>
+		<directory>Currency_Data/</directory>
+		<name>Currency_Information</name>
+        <extension>xml</extension>
+	</currency_info_file>
+        
+	<baserate_xml_file>
+		<directory>Currency_Data/</directory>
+		<name>Currency_Exchange_Rates</name>
+		<extension>xml</extension>
+	</baserate_xml_file>
+
+	<errorlogging>
+		<errormessages>
+			<error code="1000" message="Required parameter is missing"/>
+			<error code="1100" message="Parameter not recognized"/>
+			<error code="2000" message="Currency type not recognized"/>
+			<error code="2100" message="Currency amount must be to 2 decimal places"/>
+			<error code="2200" message="Currency amount must be positive"/>
+			<error code="2300" message="Currency amount must be numeric"/>
+			<error code="3000" message="Service currently unavailable"/>
+			<error code="3100" message="Error in service"/>
+		</errormessages>
+
+		<logpaths>
+			<fatal_log_path>./Logs/Currency_Converter_Fatal_Errors.log</fatal_log_path>
+			<warning_log_path>./Logs/Currency_Converter_Warning_Errors.log</warning_log_path>
+			<notice_log_path>./Logs/Currency_Converter_Notice_Errors.log</notice_log_path>
+			<other_log_path>./Logs/Currency_Converter_Other_Errors.log</other_log_path>
+		</logpaths>
+	</errorlogging>
+</configuration_settings>
